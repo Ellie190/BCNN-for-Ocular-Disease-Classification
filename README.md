@@ -33,10 +33,14 @@
 - `Epochs:` 100, `Learning rate:` 0.001, `Accuracy:` 93.16%, `Validation Accuracy:` 92.50%
 ![BCNN Model Performance](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_model_performance.png)
 
-## BCNN Model Classifications
-![BCNN Cataract Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction1.png)
-![BCNN Cataract Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction2.png)
-![BCNN Normal Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction3.png)
+## BCNN Model Classifications Samples
+- Cataract Patient Classification 
+![BCNN Cataract Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction1.png) <br>
+- Cataract Patient Classification
+![BCNN Cataract Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction2.png) <br>
+- Normal Patient Classification
+![BCNN Normal Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction3.png) <br>
+- Normal Patient Classification
 ![BCNN Normal Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction4.png)
 
 
