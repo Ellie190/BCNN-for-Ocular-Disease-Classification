@@ -33,5 +33,8 @@
 - `Epochs:` 100, `Learning rate:` 0.001, `Accuracy:` 93.16%, `Validation Accuracy:` 92.50%
 ![BCNN Model Performance](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_model_performance.png)
 
+## BCNN Model Classifications
+
+
 
 
