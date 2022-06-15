@@ -30,13 +30,6 @@
 **Python Packages:** See `requirements.txt` file <br>
 **Kaggle Dataset:** https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k <br>
 **Install prerequisite libraries**
-Download requirements.txt file
-
-```
-wget https://raw.githubusercontent.com/Ellie190/BCNN-for-Ocular-Disease-Classification/main/requirements.txt?token=GHSAT0AAAAAABSH6TIYTOF5IW6ILOXEC24UYVKCX4A
-```
-
-Pip install libraries
 ```
 pip install -r requirements.txt
 ```
