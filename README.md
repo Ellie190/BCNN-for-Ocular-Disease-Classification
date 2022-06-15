@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ## Standard CNN (Left) and Bayesian CNN Network Architecture 
 - The constructed Neural Ntework used in the project for the Standard CNN and Bayesian CNN
-![NN Architecture](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/BCNN%20MODEL%20ARCHITECTURE.png | width=400)
+![NN Architecture](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/BCNN%20MODEL%20ARCHITECTURE.png)
 
 
 
