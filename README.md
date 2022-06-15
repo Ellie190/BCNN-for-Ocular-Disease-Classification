@@ -49,7 +49,7 @@ pip install -r requirements.txt
 **Normal Patient Classification** <br> 
 ![BCNN Normal Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction4.png)
 
-## Standard CNN (Left) and Bayesian CNN Network Architecture 
+## Standard CNN (Left) and Bayesian CNN (Right Network Architecture 
 - The constructed Neural Ntework used in the project for the Standard CNN and Bayesian CNN
 ![NN Architecture](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/BCNN%20MODEL%20ARCHITECTURE.png)
 
