@@ -28,7 +28,7 @@
 **Python Version:** 3.9.7 <br>
 **Main Python Packages:** numpy, pandas, sklearn, cv2, tensorflow, keras, seaborn, matplotlib, random, pickle <br>
 **Python Packages:** See `requirements.txt` file <br>
-**Kaggle Dataset:** https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+**Kaggle Dataset:** https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k <br>
 **Install prerequisite libraries**
 Download requirements.txt file
 
