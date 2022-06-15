@@ -1,2 +1,2 @@
 # BCNN-for-Ocular-Disease-Classification
-Exploring the Effects of Transfer Learning on Bayesian Convolutional Neural Network For classifying Cataract in Ocular Disease
+**Adaptive Computation and Machine Learning Project:** Bayesian Convolutional Neural Network for Detection of Cataract Ocular Disease
