@@ -10,7 +10,7 @@
 - Experiment 2: Tuning the learning rate
 
 ## Workflow
-![WorkFlow]()
+![WorkFlow](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/workflow.png)
 
 ## Context
 **Ocular Disease:** Ocular diseases are those that affect the eye health and vision in patients of all different ages. <br>
