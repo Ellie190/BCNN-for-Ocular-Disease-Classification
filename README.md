@@ -8,7 +8,7 @@
 - Evaluationn metric: Accuracy
 
 ## Context
-**Ocular Disease:** Ocular diseases are those that affect the eye health and vision in patients of all different ages.
+**Ocular Disease:** Ocular diseases are those that affect the eye health and vision in patients of all different ages. <br>
 **Cataract:** A cataract is a dense, cloudy area that forms in the lens of the eye. A cataract begins when proteins in the eye form clumps that prevent the lens from sending clear images to the retina. The retina works by converting the light that comes through the lens into signals. Cataract  is one of the most prevalent ailments that can lead to blindness. 
 
 **Why Bayesian Convolution Neural Network?** 
@@ -20,8 +20,8 @@
 - `Epistemic uncertainty` is the uncertainty that arises from the model itself
 
 ## Resources 
-**Python Version:** 3.9.7
-**Main Python Packages:** numpy, pandas, sklearn, cv2, tensorflow, keras, seaborn, matplotlib, random, pickle
+**Python Version:** 3.9.7 <br>
+**Main Python Packages:** numpy, pandas, sklearn, cv2, tensorflow, keras, seaborn, matplotlib, random, pickle <br>
 **Kaggle Dataset:** https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 
 
