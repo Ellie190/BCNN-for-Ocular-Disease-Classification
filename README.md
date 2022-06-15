@@ -2,12 +2,13 @@
 **Adaptive Computation and Machine Learning Project:** Bayesian Convolutional Neural Network for Detection of Cataract Ocular Disease
 
 ## Project Overview 
-- Built a Bayesian Convolutional Neural Network (BCNN) to classifying Cataract Images of patients
+- Built a Bayesian Convolutional Neural Network (BCNN) to classify Cataract Images of patients
 - A Standard Convolutional Neural Network was built as a benchmark model for performance comparison with the BCNN model
-- Kaggle Data Name: Ocular Disease Recognition
+- Kaggle Dataset: Ocular Disease Recognition
 - Evaluation metric: Accuracy
-- Experiment 1: Tuning the number of neurons
-- Experiment 2: Tuning the learning rate
+- Conducted two experiments to observe the generalization of the BCNN model
+- Bayesian CNN Generalization Experiment 1: Tuning the number of neurons
+- Bayesian CNN Generalization Experiment 2: Tuning the learning rate
 
 ## Workflow
 ![WorkFlow](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/workflow.png)
