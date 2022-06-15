@@ -29,6 +29,18 @@
 **Main Python Packages:** numpy, pandas, sklearn, cv2, tensorflow, keras, seaborn, matplotlib, random, pickle <br>
 **Python Packages:** See `requirements.txt` file <br>
 **Kaggle Dataset:** https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+**Install prerequisite libraries**
+Download requirements.txt file
+
+```
+wget https://raw.githubusercontent.com/Ellie190/BCNN-for-Ocular-Disease-Classification/main/requirements.txt?token=GHSAT0AAAAAABSH6TIYTOF5IW6ILOXEC24UYVKCX4A
+```
+
+Pip install libraries
+```
+pip install -r requirements.txt
+```
+
 
 ## BCNN Model Performance
 - `Epochs:` 100, `Learning rate:` 0.001, `Accuracy:` 93.16%, `Validation Accuracy:` 92.50%
