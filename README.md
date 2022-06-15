@@ -29,7 +29,7 @@
 **Main Python Packages:** numpy, pandas, sklearn, cv2, tensorflow, keras, seaborn, matplotlib, random, pickle <br>
 **Python Packages:** See `requirements.txt` file <br>
 **Kaggle Dataset:** https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k <br>
-**Install prerequisite libraries**
+**Install prerequisite libraries:**
 ```
 pip install -r requirements.txt
 ```
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ![BCNN Cataract Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction2.png) <br> <br>
 **Normal Patient Classification** <br>
 ![BCNN Normal Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction3.png) <br> <br>
-**Normal Patient Classification** <br> <br>
+**Normal Patient Classification** <br> 
 ![BCNN Normal Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction4.png)
 
 
