@@ -40,13 +40,13 @@ pip install -r requirements.txt
 ![BCNN Model Performance](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_model_performance.png)
 
 ## BCNN Model Classifications Samples
-Cataract Patient Classification <br> <br>
+**Cataract Patient Classification** <br>
 ![BCNN Cataract Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction1.png) <br> <br>
-Cataract Patient Classification <br> <br>
+**Cataract Patient Classification** <br> 
 ![BCNN Cataract Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction2.png) <br> <br>
-Normal Patient Classification <br> <br>
+**Normal Patient Classification** <br>
 ![BCNN Normal Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction3.png) <br> <br>
-Normal Patient Classification <br> <br>
+**Normal Patient Classification** <br> <br>
 ![BCNN Normal Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/bcnn_prediction4.png)
 
 
