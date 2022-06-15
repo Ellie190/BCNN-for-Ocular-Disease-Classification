@@ -13,7 +13,7 @@
 ![WorkFlow](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification/blob/main/Images/workflow.png)
 
 ## Context
-**Ocular Disease:** Ocular diseases are those that affect the eye health and vision in patients of all different ages. <br>
+**Ocular Disease:** Ocular diseases are those that affect the eye health and vision in patients of all different ages. <br> <br>
 **Cataract:** A cataract is a dense, cloudy area that forms in the lens of the eye. A cataract begins when proteins in the eye form clumps that prevent the lens from sending clear images to the retina. The retina works by converting the light that comes through the lens into signals. Cataract  is one of the most prevalent ailments that can lead to blindness. 
 
 **Why Bayesian Convolution Neural Network?** 
