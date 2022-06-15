@@ -5,7 +5,12 @@
 - Built a Bayesian Convolutional Neural Network (BCNN) to classifying Cataract Images of patients
 - A Standard Convolutional Neural Network was built as a benchmark model for performance comparison with the BCNN model
 - Kaggle Data Name: Ocular Disease Recognition
-- Evaluationn metric: Accuracy
+- Evaluation metric: Accuracy
+- Experiment 1: Tuning the number of neurons
+- Experiment 2: Tuning the learning rate
+
+## Workflow
+![WorkFlow]()
 
 ## Context
 **Ocular Disease:** Ocular diseases are those that affect the eye health and vision in patients of all different ages. <br>
